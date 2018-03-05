@@ -10,8 +10,8 @@ return new \Phalcon\Config([
     'database' => [
         'adapter'     => 'Mysql',
         'host'        => 'localhost',
-        'username'    => 'titaneo',
-        'password'    => 'delta99',
+        'username'    => 'root',
+        'password'    => '',
         'dbname'      => 'phalconorm',
         'charset'     => 'utf8',
     ],
